@@ -1,0 +1,14 @@
+1. command line interface
+2.  home
+    home/<some other folder>
+    same dir
+    upDir
+    root
+    previous directory
+3. flag/option
+4. pipe interrupts standard output x | y means y is initialized on the output of x
+5. display the contents of the dictionary | filter dictionry contents to strings ending in 'ous'
+display the contents of the dictionary | filter dictionry contents to strings ending in 'ous' | count the filtered dictionary and display
+6. tells grep to find an 'ous' at the end of the word'
+it will find all words containing ous anywhere
+7. print to file instead of the terminal
